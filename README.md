@@ -33,7 +33,7 @@ https://.herokuapp.com/
 Run the following command on the terminal:
 `git clone git@github.com:nimo/Instagram.git && cd Instagram`
 
-
+-------------------------------------------------
 
 ### Activate virtual environment
 Activate virtual environment using python3.6 as default handler
