@@ -82,11 +82,16 @@ python3.6 manage.py makemigrations insta
 python3.6 manage.py migrate
 ```
 
+-------------------------------------------------
+
 ### Run the app
 ```bash
 python3.6 manage.py runserver
 ```
 Open terminal on `localhost:8000`
+
+
+------------------------------------------------
 
 ## Known bugs
 Like functionality not well implemented
@@ -101,5 +106,8 @@ Like functionality not well implemented
 ## Support and contact details
 Contact me for further help/support
 
+
+------------------------------------------------
+
 ### License
-Copyright (c) **Wanjiiru**
+Copyright (c) **Nimo Said**
