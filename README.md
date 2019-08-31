@@ -31,7 +31,7 @@ https://.herokuapp.com/
 
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone git@github.com:nimo/Instagram.git && cd InstaClone`
+`git clone git@github.com:nimo/Instagram.git && cd Instagram`
 
 
 
