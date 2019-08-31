@@ -26,6 +26,9 @@ https://.herokuapp.com/
 3. [Postgres](https://www.postgresql.org/download/)
 4. python virtualenv
 
+
+------------------------------------------------
+
 ### Clone the Repo
 Run the following command on the terminal:
 `git clone git@github.com:wanjiiru/InstaClone.git && cd InstaClone`
