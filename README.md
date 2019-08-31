@@ -47,6 +47,9 @@ virtualenv -p /usr/bin/python3.6 venv && source venv/bin/activate
 Install dependancies that will create an environment for the app to run
 `pip3 install -r requirements.txt`
 
+
+--------------------------------------------------
+
 ### Create the Database
 ```bash
 psql
