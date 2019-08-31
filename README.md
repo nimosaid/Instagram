@@ -1,5 +1,6 @@
 # Instagram
 #### Web clone of the Instagram app
+## Built By Nimo Said
 
 ## Description
 This is a simple web clone of the instagram website. A user can create an account and sign into it. 
