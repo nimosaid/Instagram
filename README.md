@@ -2,6 +2,8 @@
 #### Web clone of the Instagram app
 ## Built By Nimo Said
 
+---------------------------------------------
+
 ## Description
 This is a simple web clone of the instagram website. A user can create an account and sign into it. 
 The site supports uploading images,liking and commnting on images as well as following other users. Logged in
