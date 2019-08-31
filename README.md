@@ -55,6 +55,9 @@ Install dependancies that will create an environment for the app to run
 psql
 CREATE DATABASE insta;
 ```
+
+---------------------------------------------------
+
 ### .env file
 Create .env file and paste paste the following filling where appropriate:
 ```python
@@ -70,6 +73,9 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = '<your-email>'
 EMAIL_HOST_PASSWORD = '<your-password>'
 ```
+
+--------------------------------------------------
+
 ### Run initial Migration
 ```bash
 python3.6 manage.py makemigrations insta
