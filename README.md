@@ -13,8 +13,10 @@ users can view photos uploaded by other users in the home page of app.
 -----------------------------------------------
 
 ## Link to deployed site
-https://instaliz.herokuapp.com/
+https://.herokuapp.com/
 
+
+-----------------------------------------------
 
 ## Set Up and Installations
 
