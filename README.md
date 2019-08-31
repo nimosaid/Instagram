@@ -31,7 +31,9 @@ https://.herokuapp.com/
 
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone git@github.com:wanjiiru/InstaClone.git && cd InstaClone`
+`git clone git@github.com:nimo/Instagram.git && cd InstaClone`
+
+
 
 ### Activate virtual environment
 Activate virtual environment using python3.6 as default handler
